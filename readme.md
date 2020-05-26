@@ -9,7 +9,7 @@ npm install @cagataycali/collaborative-filtering
 # Usage
 
 ```javascript
-const CF = require('collaborative-filtering');
+const CF = require('@cagataycali/collaborative-filtering');
 const fs = require('fs');
 
 // load movie dataset: user_id movie_id rating like
