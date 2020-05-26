@@ -1,0 +1,22 @@
+{
+  "name": "collaborative-filtering",
+  "version": "1.0.0",
+  "description": "Simple collaborative-filtering module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cagataycali/collaborative-filtering.git"
+  },
+  "keywords": [
+    "collaborative-filtering"
+  ],
+  "author": "Çağatay Çalı",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cagataycali/collaborative-filtering/issues"
+  },
+  "homepage": "https://github.com/cagataycali/collaborative-filtering#readme"
+}
