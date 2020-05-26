@@ -3,7 +3,7 @@
 # Install
 
 ```
-npm install collaborative-filtering
+npm install @cagataycali/collaborative-filtering
 ```
 
 # Usage
