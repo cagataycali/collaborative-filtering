@@ -1,5 +1,5 @@
 {
-  "name": "collaborative-filtering",
+  "name": "@cagataycali/collaborative-filtering",
   "version": "1.0.1",
   "description": "Simple collaborative-filtering module",
   "main": "index.js",
